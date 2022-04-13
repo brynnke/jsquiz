@@ -42,7 +42,7 @@ var questions = [
     choices:[{choice:'1.semi-colon;'}, {choice: '2.smiley-face :-)'}, {choice: '3.period.'}]
   },
   { q: 'Which of the following is not an Javascript object?',
-    a: '4.Bodies',
+    a: '4. bodies',
     choices: [{choice:'1.booleans'},{choice:'2.numbers'}, {choice:'3.arrays'}, {choice:'4.bodies'}]
   },
   { q: 'Does a website save data in localStorage?',
