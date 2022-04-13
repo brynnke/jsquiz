@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# jsquiz
+
+>>>>>>> 1ac37d6218b1683942b7ddea0a5b71bab7cf1050
 ## Descritption
 The purpose of this website is to quiz you. The quiz entails questions about coding related items. There is a timer that counts down as you start the quiz, and deducted points/time if you answer incorrects. 
 
